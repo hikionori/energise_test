@@ -1,0 +1,11 @@
+{
+    "country": "Land",
+    "city": "Stadt",
+    "region": "Region",
+    "zip": "Zip",
+    "timezone": "Zeitzone",
+    "actions": "Aktionen",
+    "rate_app": "Bewerte die App",
+    "share": "Teilen",
+    "contact_us": "Kontaktiere uns"
+}

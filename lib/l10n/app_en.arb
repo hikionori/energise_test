@@ -1,0 +1,11 @@
+{
+    "country": "Country",
+    "city": "City",
+    "region": "Region",
+    "zip": "Zip",
+    "timezone": "Timezone",
+    "actions": "Actions",
+    "rate_app": "Rate app",
+    "share": "Share",
+    "contact_us": "Contact us"
+}
